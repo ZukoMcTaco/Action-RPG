@@ -1,5 +1,5 @@
 # Action-RPG
-Mini Godot project I created.
+Mini Godot project I indulged in.
 
 This is powered by the Godot game engine, which uses GDScript for the backend.
 
